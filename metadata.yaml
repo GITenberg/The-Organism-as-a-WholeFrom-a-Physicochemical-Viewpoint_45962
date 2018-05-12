@@ -1,0 +1,29 @@
+_repo: The-Organism-as-a-WholeFrom-a-Physicochemical-Viewpoint_45962
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loeb, Jacques
+    birthdate: 1859
+    deathdate: 1924
+    gutenberg_agent_id: '43549'
+    url: http://www.gutenberg.org/2009/agents/43549
+description: ''
+gutenberg_issued: '2014-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45962'
+  lccn: '16025201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Mendel''s law'
+- !lcsh 'Life (Biology)'
+- !lcsh 'Biology'
+title: The Organism as a Whole, from a Physicochemical Viewpoint
+url: http://www.gutenberg.org/ebooks/45962

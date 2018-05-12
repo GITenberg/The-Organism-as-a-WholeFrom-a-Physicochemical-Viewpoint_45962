@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43549'
     url: http://www.gutenberg.org/2009/agents/43549
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45962#The-Organism-as-a-WholeFrom-a-Physicochemical-Viewpoint
 gutenberg_issued: '2014-06-14'
 gutenberg_type: Text
 identifiers:
